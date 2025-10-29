@@ -8,7 +8,7 @@ in
 {
   one = pkgs.fetchzip {
     url = "https://github.com/tobim/nix-clashing-fods/archive/refs/tags/one.tar.gz";
-    hash = "sha256-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=";
+    hash = "sha256-l9c6TwEGKbxAj0i7SnvlznlcH/AC1rtcQ1zrhurduNk=";
   };
   two = pkgs.fetchzip {
     url = "https://github.com/tobim/nix-clashing-fods/archive/refs/tags/two.tar.gz";
